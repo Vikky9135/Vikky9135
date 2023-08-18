@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vikky9135
-- 👀 I’m interested in competetive coding in python and cyber security
+- 👀 I’m interested in competetive coding in python , web app development, Machine Learning with AI etc.
 - 🌱 I’m currently learning B.Tech 2nd sem in REVA UNIVERSITY
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail me at vikramvikky2030@gmail.com
